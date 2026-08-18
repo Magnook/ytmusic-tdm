@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ytmusic-dl
 
 Baixador de música do YouTube com letras sincronizadas (.lrc), feito para
@@ -96,4 +95,3 @@ Uso pessoal, sem garantias. Fique à vontade para adaptar.
 =======
 # ytmusic
 Baixador de música do YouTube com letras sincronizadas (.lrc), feito para rodar 100% no **Termux**, sem depender de nenhum streaming pago. Pensado para uso com players locais como o [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet).
->>>>>>> 287338054125c40a2c8f18e730e0657caef92648
