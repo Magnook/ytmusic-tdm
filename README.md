@@ -25,8 +25,8 @@ para uso com players locais como o [Musicolet](https://play.google.com/store/app
 ## Instalação (Termux)
 
 ```bash
-git clone https://github.com/SEU_USUARIO/ytmusic-dl.git
-cd ytmusic-dl
+git clone https://github.com/SEU_USUARIO/ytmusic-tdm.git
+cd ytmusic-tdm
 bash install.sh
 ```
 
@@ -58,7 +58,7 @@ escanear o armazenamento compartilhado).
 
 ## Configuração
 
-A config fica em `~/.config/ytmusic-dl/config.json`:
+A config fica em `~/.config/ytmusic-tdm/config.json`:
 
 ```json
 {
@@ -85,7 +85,7 @@ manualmente.
 
 ## Por que não um APK?
 
-Empacotar yt-dlp + ffmpeg + um runtime JS num APK nativo é possível
+Empacotar yt-tdm + ffmpeg + um runtime JS num APK nativo é possível
 (via Kivy/Buildozer, por exemplo), mas é um projeto bem mais complexo e
 frágil de manter do que aproveitar o Termux, que já roda Python e
 binários nativos de forma simples e com acesso direto ao armazenamento
