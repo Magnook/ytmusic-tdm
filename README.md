@@ -25,7 +25,7 @@ para uso com players locais como o [Musicolet](https://play.google.com/store/app
 ## Instalação (Termux)
 
 ```bash
-git clone https://github.com/SEU_USUARIO/ytmusic-tdm.git
+git clone https://github.com/Magnook/ytmusic-tdm.git
 cd ytmusic-tdm
 bash install.sh
 ```
